@@ -11,12 +11,12 @@
 - 💬 Ask me about **everything**
 - ⚙️ Here you can see my work [About Me](http://my-oliwier.com)
 - 📫 How to reach me via Gmail [Oliwer](oliwer.w2209@gmail.com)
-- 📫 Also reach me on Twitter [RevoD21](https://twitter.com/RevoD21)
+- 📫 Also reach me on Twitter [Oliwier](https://twitter.com/WozniakOliwer)
 - ⚡ Fun fact **It`s my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/revod21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="revod21" height="30" width="40" /></a>
+<a href="https://twitter.com/WozniakOliwer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="revod21" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/586892627647922176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/586892627647922176" height="30" width="40" /></a>
 <h3 align="left">My 2nd acc:</h3>
 <a href="https://www.github.com/Revoqo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a 
