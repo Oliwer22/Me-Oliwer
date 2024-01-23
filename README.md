@@ -1,34 +1,63 @@
 <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="HI_gif" style="display: block; margin: 0 auto;">
-<h1 align="center">Hi 👋, I'm Oliwer</h1>
-<h3 align="center">A passionate developer from Poland that lives in The Nederlands</h3>
+<h1 align="">Hi 👋, I'm Oliwer</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=oliwer22&label=Profile%20views&color=08cde7&style=flat" alt="oliwer22" /> </p>
+<h3 align="">A passionate developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oliwer22&label=Profile%20views&color=08cde7&style=flat" alt="oliwer22" /> </p>
 
-<p align="left"> <a href="https://twitter.com/revod21" target="blank"><img src="https://img.shields.io/twitter/follow/revod21?logo=twitter&style=for-the-badge" alt="revod21" /></a> </p>
 
-- 🔭 I’m currently working on **A Discord bot**
 
-- 💬 Ask me about **everything**
-- ⚙️ Here you can see my work [About Me](http://my-oliwier.com)
-- 📫 How to reach me via Gmail [Oliwer](oliwer.w2209@gmail.com)
-- 📫 Also reach me on Twitter [Oliwier](https://twitter.com/WozniakOliwer)
-- ⚡ Fun fact **It`s my hobby**
+- 💻 Front and Backend Developer
+- ⚙️ I’m currently working on **A big project** in few languages
+- 🌍 Live in The Netherlands
+- 💬 Feel free to ask me about anything, or just say hi!
+- 👀 Here you can see my work [About Me](http://my-oliwier.com)
+- 📫 How to reach me via mail [Oliwer](oliwer.w2209@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/WozniakOliwer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="revod21" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/586892627647922176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/586892627647922176" height="30" width="40" /></a>
-<h3 align="left">My 2nd acc:</h3>
-<a href="https://www.github.com/Revoqo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a 
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+# 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=&logoColor=white)](https://my-oliwier.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliwer-wozniak-094962219/) 
+[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&logoColor=white)](https://discord.com/users/586892627647922176) 
+[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/WozniakOliwer) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliwer22&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="oliwer22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliwer22&show_icons=true&theme=dark&hide_border=true&locale=en" alt="oliwer22" /></p>
 
-<a href="http://www.github.com/Oliwer22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oliwer22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Json](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
 
-<a href="https://github.com/Oliwer22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliwer22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api?username=Oliwer22&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Oliwer22&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliwer22&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Oliwer22&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Oliwer22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Oliwer22&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
